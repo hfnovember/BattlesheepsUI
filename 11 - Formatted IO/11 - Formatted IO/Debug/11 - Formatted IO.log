@@ -1,0 +1,13 @@
+﻿Build started 05-Aug-16 12:34:53 AM.
+     1>Project "D:\Libraries\Software Development\C++\C++ Examples\11 - Formatted IO\11 - Formatted IO\11 - Formatted IO.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt FormattedIO.cpp
+         FormattedIO.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Libraries\Software Development\C++\C++ Examples\11 - Formatted IO\Debug\11 - Formatted IO.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Libraries\Software Development\C++\C++ Examples\11 - Formatted IO\Debug\11 - Formatted IO.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Libraries\Software Development\C++\C++ Examples\11 - Formatted IO\Debug\11 - Formatted IO.lib" /MACHINE:X86 Debug\FormattedIO.obj
+         11 - Formatted IO.vcxproj -> D:\Libraries\Software Development\C++\C++ Examples\11 - Formatted IO\Debug\11 - Formatted IO.exe
+     1>Done Building Project "D:\Libraries\Software Development\C++\C++ Examples\11 - Formatted IO\11 - Formatted IO\11 - Formatted IO.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.54
